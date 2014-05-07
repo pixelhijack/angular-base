@@ -7,4 +7,8 @@ angular.module('angularApp')
       'AngularJS',
       'Karma'
     ];
+
+    $scope.modalShown = true;
+    $scope.modalTemplate = 'views/modal_welcome.html';
+
   });
