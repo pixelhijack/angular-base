@@ -1,0 +1,33 @@
+/*==============================
+	based on Bootstrap 3
+================================*/
+
+/* set breakpoints here: */
+$break-phone  : 1020px;
+$break-tablet : 1020px;
+$break-desktop: 1020px;
+
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default!! */
+
+/* Small devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) { 
+	.container{
+		max-width: $break-tablet;
+	}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media screen and (min-width: 992px) { 
+	.container{
+		max-width: $break-desktop;
+	}
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and (min-width: 1200px) {
+	.container{
+		max-width: $break-desktop;
+	}
+}

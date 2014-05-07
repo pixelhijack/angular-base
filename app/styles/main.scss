@@ -1,3 +1,60 @@
+@import "variables";
+@import "override";
+
+@import "grid";
+@import "typo";
+@import "tables";
+
+@import "buttons";
+@import "forms";
+
+@import "responsive-mobile-first";
+@import "responsive-classic";
+
+
+/*==================
+    DEBUG
+=====================*/
+
+.container{
+    margin: 1px solid #e7e7e7;
+}
+
+.container .row{
+    margin-top: 1em;
+}
+
+[class^="col"]{
+    background-color: #e7e7e7;
+    border-bottom: 2px solid #cfcfcf;
+    font: bold 1em / 1.5em Helvetica, sans-serif;
+    color: #fff;
+    text-align:center;
+    -webkit-transition: all 0.2s ease-out;
+       -moz-transition: all 0.2s ease-out;
+             transform: all 0.2s ease-out;
+}
+
+[class^="col"]:hover{
+    cursor: pointer;
+    background-color: #cfcfcf;
+    -webkit-transform: translateY(2px);
+            transform: translateY(2px);
+}
+
+/*---------------------------
+    hotfix
+---------------------------*/
+/* 
+#footer{
+    display:none;
+} 
+*/
+
+
+
+
+
 .browsehappy {
     margin: 0.2em 0;
     background: #ccc;

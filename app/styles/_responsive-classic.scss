@@ -1,0 +1,36 @@
+/*==============================
+	based on Bootstrap 2
+================================*/
+
+/* set breakpoints here: */
+$break-phone  : 1020px;
+$break-tablet : 1020px;
+$break-desktop: 1020px;
+
+/* Landscape phones and down */
+@media screen and (max-width: 480px) { 
+	.container{
+		max-width: $break-phone;
+	}
+}
+
+/* Landscape phone to portrait tablet */
+@media screen and (max-width: 767px) { 
+	.container{
+		max-width: $break-tablet;
+	}
+}
+
+/* Portrait tablet to landscape and desktop */
+@media screen and (min-width: 768px) and (max-width: 979px) { 
+	.container{
+		max-width: $break-tablet;
+	}
+}
+
+/* Large desktop */
+@media screen and (min-width: 1200px) { 
+	.container{
+		max-width: $break-desktop;
+	}
+}

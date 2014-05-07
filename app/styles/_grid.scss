@@ -1,0 +1,100 @@
+/*---------------------------
+	BORDERS & PADDINGS
+---------------------------*/
+
+*, *:after, *:before{
+	-webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;  
+            box-sizing: border-box;
+}
+
+/*---------------------------
+	CLEARFIX
+---------------------------*/
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+.clearfix:after { clear: both; }
+.clearfix { *zoom: 1; }
+
+/*---------------------------
+	GRID
+---------------------------*/
+
+.row{
+	width: 100%;
+	display:block;
+	margin: 0 auto;
+	float:left;
+	overflow:hidden;
+	*zoom:1;
+}
+
+.row:after, 
+.row:before{
+	content: " ";
+	display: table;
+}
+.row:after{ clear: both; }
+
+.col-12-12,
+.col-11-12,
+.col-10-12,
+.col-9-12,
+.col-8-12,
+.col-7-12,
+.col-6-12,
+.col-5-12,
+.col-4-12,
+.col-3-12,
+.col-2-12,
+.col-1-12, 
+.col-1-5,
+.col-2-5,
+.col-3-5,
+.col-4-5,
+.col-5-5{
+  float: left;
+  margin: 0 1.041666%;
+  overflow: hidden;
+  display: inline-block;
+}
+.col-12-12{ width: 97.916%; } 
+.col-11-12{ width: 89.583333%; }
+.col-10-12{ width: 81.25%;  }
+.col-9-12 { width: 72.916%; }
+.col-8-12 { width: 64.583%; }
+.col-7-12 { width: 56.25%;  }
+.col-6-12 { width: 47.916%; }
+.col-5-12 { width: 39.583%; }
+.col-4-12 { width: 31.25%;  }
+.col-3-12 { width: 22.916%; }
+.col-2-12 { width: 14.583%; }
+.col-1-12 { width: 6.25%;   }
+
+.col-1-5{ width: 17.916666666%; }
+.col-2-5{ width: 37.916666666%; }
+.col-3-5{ width: 57.916666666%; }
+.col-4-5{ width: 77.916666666%; }
+.col-5-5{ width: 97.916%;       }
+
+
+.inline{
+	float:left;
+	display:inline-block;
+}
+
+
+/*---------------------------
+	FLUID LAYOUT
+---------------------------*/
+.container{
+	max-width: 1020px;
+	width: 90%;
+	margin: 0 auto;
+	padding: 0 20px;
+	background-color: white;
+}

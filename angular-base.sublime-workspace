@@ -1,0 +1,891 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sho",
+				"showResult"
+			],
+			[
+				"light",
+				"lightgrey"
+			],
+			[
+				"headerSli",
+				"headerSliderInner"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"brd",
+				"border-radius"
+			],
+			[
+				"refresh",
+				"refreshBlock"
+			],
+			[
+				"ima",
+				"image-wrapper"
+			],
+			[
+				"random",
+				"randomActive"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"calenda",
+				"calendarEvents"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"drop",
+				"dropdown-toggle"
+			],
+			[
+				"dropdo",
+				"dropdown-toggle"
+			],
+			[
+				"target",
+				"targetElement"
+			],
+			[
+				"base",
+				"basecolor-grey-dark"
+			],
+			[
+				"basecolor-grey",
+				"basecolor-grey-mid"
+			],
+			[
+				"basecolor-grey-",
+				"basecolor-grey-light"
+			],
+			[
+				"basecolor",
+				"basecolor-light"
+			],
+			[
+				"inline-",
+				"inline-block"
+			],
+			[
+				"basecolor-",
+				"basecolor-green-light"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"basec",
+				"basecolor-blue"
+			],
+			[
+				"bas",
+				"basecolor-grey-dark"
+			],
+			[
+				"ba",
+				"basecolor-grey-dark"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 58,
+				"line_ending": "Windows",
+				"name": "Starter kit for angular based projects with sass f"
+			}
+		},
+		{
+			"file": "app/styles/main.scss",
+			"settings":
+			{
+				"buffer_size": 2460,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 5465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/main.html",
+			"settings":
+			{
+				"buffer_size": 708,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"SassB",
+				"SassBeautify"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/attila/PROJECTS/_pxhjck_starter_kit/index.html",
+		"/D/wamp/www/redminefrontend/app/views/projects.html",
+		"/C/Users/Barna/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/wamp/www/redminefrontend/app/views/main.html",
+		"/D/wamp/www/redminefrontend/app/scripts/controllers/main.js",
+		"/D/wamp/www/redminefrontend/app/scripts/services/issues.js",
+		"/D/wamp/www/redmine/redminefrontend/app/scripts/controllers/main.js",
+		"/D/wamp/www/burn_svn/public_html/css/all.css",
+		"/D/attila/PROJECTS/BURN/font/webfontkit-all-3/specimen_files/specimen_stylesheet.css",
+		"/D/attila/PROJECTS/BURN/font/webfontkit-all-3/stylesheet.css",
+		"/D/wamp/www/burn/app/views/price.html",
+		"/D/wamp/www/burn/app/views/toplists.html",
+		"/D/wamp/www/burn/app/views/game.html",
+		"/D/wamp/www/burn/app/views/prize.html",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/_base.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/_register.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/_search.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/_product.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/template/account/register.tpl",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/template/account/login.tpl",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/cca.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/_buttons.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/_typo.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/_cart.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/_forms.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/_opencart-override.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/template/common/column_left.tpl",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/_menu.scss",
+		"/D/attila/PROJECTS/CCA/js/sticky-sidebar/sticky-sidebar/css/style.css",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/template/checkout/checkout.tpl",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/_variables.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/stylesheet/cca.css",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/language/english/account/account.php",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/template/common/content_top.tpl",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/template/common/footer.tpl",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/default/stylesheet/stylesheet.css",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/template/product/review.tpl",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/controller/checkout/cart.php",
+		"/C/Users/Barna/Desktop/product.tpl",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/controller/module/refine_search.php",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/template/product/product.tpl",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/javascript/common.js",
+		"/D/wamp/logs/access.log",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/template/module/anylist.tpl",
+		"/C/Users/Barna/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/D/attila/PROJECTS/Nivea/lassoimage.js",
+		"/D/attila/arrows_svg.svg",
+		"/D/attila/dev/sitebuild-teszt-Adam-Burucs-www.burucs.com/sitebuild/css/main.css",
+		"/D/attila/dev/sitebuild-teszt-Adam-Burucs-www.burucs.com/sitebuild/css/ie.css",
+		"/D/attila/dev/sitebuild-teszt-Adam-Burucs-www.burucs.com/sitebuild/scss/main.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/default/template/product/product.tpl",
+		"/C/Users/Barna/Desktop/all.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/javascript/cca.js",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/default/template/product/search.tpl",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/javascript/cca",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/_normalize",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/_normalize.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/sass/stylesheet.scss",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/stylesheet/stylesheet.css",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/default/template/common/home.tpl",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/cca/template/common/home.tpl",
+		"/D/wamp/www/CCA/trunk/public_html/catalog/view/theme/default/template/common/header.tpl",
+		"/D/wamp/www/CCA/trunk/public_html/config.php",
+		"/D/wamp/www/CCA/trunk/public_html/admin/config.php",
+		"/D/attila/PROJECTS/Nivea/build/nivea_keresdamosolyt",
+		"/D/attila/PROJECTS/Nivea/lassoimage.html",
+		"/C/Users/Barna/AppData/Roaming/Sublime Text 2/Packages/HtmlTidy/HtmlTidy.sublime-settings",
+		"/D/attila/PROJECTS/ICDO/build/template/index.html",
+		"/D/attila/PROJECTS/ICDO/build/template/js/site.js",
+		"/D/attila/PROJECTS/ICDO/build/contact/International Civil Defence Organisation.htm",
+		"/D/attila/PROJECTS/ICDO/build/video_gallery/International Civil Defence Organisation.htm",
+		"/D/attila/PROJECTS/ICDO/build/gallery/International Civil Defence Organisation.htm",
+		"/D/attila/PROJECTS/ICDO/build/news_subpage/International Civil Defence Organisation.htm",
+		"/D/attila/PROJECTS/ICDO/build/newslist/International Civil Defence Organisation.htm",
+		"/D/attila/PROJECTS/ICDO/build/homepage/International Civil Defence Organisation.htm",
+		"/D/attila/PROJECTS/ICDO/build/homepage/International Civil Defence Organisation_files/site.js",
+		"/D/attila/PROJECTS/ICDO/build/homepage/International Civil Defence Organisation_files/style.css",
+		"/D/wamp/www/nth-cms/app/config/config.yml",
+		"/D/wamp/www/nth-cms/app/logs/dev.log",
+		"/D/wamp/www/nth-cms/app/Resources/SonataAdminBundle/views/Core/dashboard.html.twig",
+		"/D/wamp/www/nth-cms/src/NTH/SiteBundle/Resources/public/map/nth-map.css",
+		"/D/attila/PROJECTS/WANG/css/style.css",
+		"/D/wamp/www/nth-cms/src/NTH/SiteBundle/Resources/public/css/grid.css",
+		"/D/wamp/www/nth-cms/src/NTH/SiteBundle/Resources/public/css/contents.css",
+		"/D/wamp/www/nth-cms/src/NTH/SiteBundle/Resources/views/Layouts/base.html.twig",
+		"/D/wamp/www/nth-cms/src/NTH/SiteBundle/Resources/public/js/site.js",
+		"/D/wamp/www/nth-cms/src/NTH/SiteBundle/Resources/views/Menu/sidebar_highlights_image_slider.html.twig",
+		"/D/wamp/www/nth-cms/src/NTH/SiteBundle/Resources/public/map/nth-map.js",
+		"/D/wamp/www/nth-cms/src/NTH/SiteBundle/Resources/views/ProjectsMap/map.html.twig",
+		"/D/wamp/www/nth-cms/src/GBaRT/AdminBundle/Resources/public/js/controls.js",
+		"/D/attila/WANG/css/style.css",
+		"/D/wamp/www/nth-cms/src/NTH/SiteBundle/Resources/public/calendar/calendar.js",
+		"/D/wamp/www/nth-cms/src/NTH/SiteBundle/Resources/public/calendar/calendar.css",
+		"/D/wamp/www/nth-cms/src/GBaRT/PageBundle/Resources/views/BlockAdmin/blocks_toolbar.html.twig",
+		"/D/wamp/www/nth-cms/vendor/sonata-project/doctrine-orm-admin-bundle/Sonata/DoctrineORMAdminBundle/Resources/views/CRUD/edit_orm_many_association_script.html.twig",
+		"/D/attila/WANG/js/site.js",
+		"/D/attila/icdo.txt",
+		"/D/wamp/www/nth-cms/src/GBaRT/PageBundle/Resources/views/PageAdmin/list.html.twig",
+		"/D/wamp/www/nth-cms/src/GBaRT/AdminBundle/Resources/public/css/font-awesome.css",
+		"/D/wamp/www/probond/app/config/parameters_lc.yml",
+		"/D/wamp/www/nth-cms/src/NTH/SiteBundle/Resources/views/EventCalendar/calendar.html.twig",
+		"/D/wamp/www/nth-cms/src/NTH/SiteBundle/Resources/views/Blocks/region_selector.html.twig",
+		"/D/wamp/www/nth-cms/app/config/sonata/sonata_admin.yml",
+		"/D/wamp/www/nth-cms/app/config/sonata/sonata_block.yml",
+		"/D/wamp/www/nth-cms/app/config/sonata/sonata_page.yml",
+		"/D/wamp/www/nth-cms/app/Resources/translations/FOSUserBundle.hu.yml",
+		"/D/wamp/www/nth-cms/app/cache/dev_missing_translation.txt",
+		"/D/wamp/www/nth-cms/app/Resources/translations/SonataCoreBundle.hu.yml",
+		"/D/wamp/www/nth-cms/app/Resources/translations/SonataCoreBundle.hu",
+		"/D/wamp/www/nth-cms/app/Resources/translations/validators.hu.yml",
+		"/D/wamp/www/nth-cms/app/Resources/translations/SonataClassificationBundle.hu.yml",
+		"/D/wamp/www/nth-cms/app/Resources/translations/SonataMediaBundle.hu.yml",
+		"/D/wamp/www/nth-cms/app/Resources/translations/SonataAdminBundle.hu.yml",
+		"/D/wamp/www/nth-cms/app/Resources/translations/SonataUserBundle.hu.yml",
+		"/D/wamp/www/nth-cms/app/Resources/translations/messages.hu.yml",
+		"/D/wamp/www/nth-cms/app/Resources/translations/SonataPageBundle.hu.yml",
+		"/D/wamp/www/nth-cms/app/Resources/translations/SonataPageBundle.hu.xliff",
+		"/D/attila/NTH/dev_missing_translation.txt",
+		"/D/wamp/www/nth-cms/src/GBaRT/ClassificationBundle/Resources/public/jstree/css/jstree-override.css",
+		"/D/wamp/www/nth-cms/app/Resources/translations/messages.en.yml",
+		"/D/attila/NTH/jstree/vakata-jstree-691bfa9/src/jstree.js",
+		"/D/wamp/www/nth-cms/src/GBaRT/PageBundle/Resources/public/css/example.scss",
+		"/D/wamp/www/nth-cms/src/GBaRT/PageBundle/Resources/views/BlockAdmin/list.html.twig",
+		"/D/wamp/www/nth-cms/src/NTH/SiteBundle/Resources/views/Layouts/partials/javascripts.html.twig",
+		"/D/wamp/www/nth-cms/vendor/sonata-project/admin-bundle/Sonata/AdminBundle/Resources/public/bootstrap/css/bootstrap.css",
+		"/D/wamp/www/nth-cms/src/GBaRT/PageBundle/Resources/views/Block/block_base.html.twig",
+		"/D/wamp/www/nth-cms/src/GBaRT/AdminBundle/Resources/public/bootstrap-dropdown-hover/bootstrap-hover.js",
+		"/D/wamp/www/nth-cms/app/Resources/SonataDoctrineORMAdminBundle/views/CRUD/edit_orm_many_association_script.html.twig"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\wamp\\www\\CCA\\trunk\\public_html\\catalog\\view\\theme\\cca\\sass",
+			"D:\\wamp\\www\\CCA\\trunk\\public_html\\catalog\\view\\theme\\cca\\template\\checkout",
+			"D:\\wamp\\www\\CCA\\trunk\\public_html\\catalog\\view",
+			"D:\\wamp\\www\\CCA\\trunk\\public_html\\catalog\\view\\theme\\cca\\sass",
+			"D:\\wamp\\www\\CCA\\trunk\\public_html\\catalog\\view\\theme\\cca",
+			"D:\\wamp\\www\\CCA\\trunk\\public_html\\catalog",
+			"D:\\wamp\\www\\CCA\\trunk\\public_html\\catalog\\view\\theme\\cca\\sass",
+			"D:\\wamp\\www\\CCA\\trunk",
+			"D:\\wamp\\www\\CCA\\trunk\\public_html\\catalog",
+			"D:\\wamp\\www\\CCA\\trunk\\public_html\\catalog\\controller\\checkout",
+			"D:\\wamp\\www\\CCA\\trunk\\public_html\\catalog\\view\\theme\\cca\\template",
+			"D:\\wamp\\www\\CCA\\trunk\\public_html\\catalog\\view",
+			"D:\\wamp\\www\\CCA",
+			"D:\\wamp\\www\\CCA\\trunk\\public_html\\catalog\\view\\theme\\cca"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"projects",
+			"\">\n",
+			"projects",
+			"116,148,180",
+			"solid",
+			"container",
+			"family",
+			"!');",
+			"browseh",
+			"browse",
+			"transi",
+			"light",
+			".cca-login",
+			".cca-login {\n  border: 1px solid",
+			".cca-register,\n.cca-login {\n  border: 1px solid",
+			"border: 1px solid #e3e3e3;",
+			"zone_id",
+			"cca-cart",
+			"@media",
+			"em",
+			"gradi",
+			"registra",
+			"stick",
+			"span",
+			"switch",
+			".cca-menu ul{",
+			"-webkit-padding-start: 20",
+			"-webkit-padding-start",
+			"-webkit-padding-start: 20px;",
+			"shoe-category-title",
+			"shoe-category-row",
+			"bread",
+			"breadcrumb",
+			"bread",
+			"subc",
+			"shoe-subcategory",
+			"submit",
+			"update",
+			"quantity",
+			"list",
+			"$login",
+			"button",
+			"type=",
+			"button",
+			"button\"",
+			"button",
+			"animation",
+			"anima",
+			".text",
+			"quantit",
+			"qty",
+			"dark",
+			"gradient",
+			"model",
+			"header-product-headings",
+			"header-product-page",
+			"cart row",
+			".cart",
+			"options",
+			"\n-->",
+			"u-",
+			"options",
+			".image",
+			"review",
+			"<b><?php echo $entry_name; ?></b><br />\n        <input type=\"text\" name=\"name\" value=\"\" />\n        <br />\n        <br />",
+			"class=\"review-list",
+			"theme/",
+			".png",
+			"catalog/view/theme",
+			"rating",
+			"class=\"ratin",
+			"block",
+			"cols",
+			"class=\"review-list\"",
+			"review",
+			"dark",
+			"$dark",
+			"review",
+			"breadcrumbs",
+			"review",
+			"animat",
+			"tab-related",
+			"tab-vasarlasi-tudnivalok",
+			"===",
+			"#f7f7f7",
+			"h2",
+			"color",
+			"DESCRIP",
+			"descrip",
+			"h3",
+			"stock",
+			" $('.",
+			"RIGHT",
+			"bread",
+			"header-product-page",
+			"rea",
+			"bre",
+			"socia",
+			"width",
+			"countProducts",
+			"printf",
+			"total",
+			"function",
+			"function get",
+			"get",
+			"add",
+			"stic",
+			"add-",
+			"add-to-cart",
+			"<div id=\"logo\">",
+			"content",
+			"keyframes",
+			"0",
+			"shad",
+			"trans",
+			"rgba",
+			"console",
+			"unbin",
+			"console",
+			"class=\"price ",
+			"class=\"price",
+			"class=\"product\"",
+			"product-",
+			"paddin",
+			"transf",
+			"back",
+			"ligh",
+			"4dc2f1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"60,69,131",
+			"header-subpage-headings",
+			"$toColor",
+			"class=\"product-card-price ",
+			"class=\"product-card-price",
+			"class=\"product-card\"",
+			"D:\\wamp\\www\\CCA\\trunk\\public_html",
+			"\"row-fluid",
+			"row",
+			".nth-calendar",
+			", \"name",
+			"\"id\": ",
+			".nth-hover-city",
+			".nth-hover-county",
+			"\"url\"",
+			"\"project-count\"",
+			".nth-city-hover",
+			"nth-city-hover",
+			"nth-city-hover ",
+			"nth-county-hover ",
+			"\"",
+			"href=\"http://nth.gov.hu\"",
+			"target=\"_blank\"",
+			" ",
+			"",
+			"width: 400px;\n    height: 254px;",
+			"\" />",
+			"href=\"http://nth.gov.hu\"",
+			"target=\"_blank\"",
+			".9",
+			"$basefont",
+			"probond-ui-accordion"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 58,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "Starter kit for angular based projects with sass f",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/styles/main.scss",
+					"settings":
+					{
+						"buffer_size": 2460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 5465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1091,
+								1091
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 215.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/main.html",
+					"settings":
+					{
+						"buffer_size": 708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bootstrap.css",
+				"public_html/bundles/probondcrm/app/bower_components/sass-bootstrap/dist/css/bootstrap.css"
+			],
+			[
+				"bootstrap",
+				"app/bootstrap.php.cache"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/wamp/www/naex-client/_/naex-client.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true
+}
