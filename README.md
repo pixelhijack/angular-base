@@ -1,0 +1,1 @@
+Starter kit for angular based projects with sass fancies. 
